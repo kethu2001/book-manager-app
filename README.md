@@ -125,4 +125,12 @@ http://localhost:4200
 
 ## 👨‍💻 Developed By
 
+**Kethmini Weerasooriya**
+
+**GitHub:** @kethu2001
+
+**LinkedIn:** [Your Profile](https://www.linkedin.com/in/kethmini-weerasooriya/)
+
+**Email:** [kethu.kavindya@gmail.com](mailto:kethu.kavindya@gmail.com)
+
 Developed as part of the **Trainee/Associate Software Engineer Assignment** for **Enhanzer (Pvt) Ltd**.
